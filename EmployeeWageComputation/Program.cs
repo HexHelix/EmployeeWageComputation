@@ -25,5 +25,12 @@ namespace EmployeeWageComputation
             int FullDayHour = 8;
             return WagePerHour* FullDayHour;
         }
+
+        static int PartTimeWage()
+        {
+            int WagePerHour = 20;
+            int FullDayHour = 4;
+            return WagePerHour * FullDayHour;
+        }
     }
 }
