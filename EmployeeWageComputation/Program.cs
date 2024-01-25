@@ -18,5 +18,12 @@ namespace EmployeeWageComputation
             Random rnd = new Random();
             return Convert.ToBoolean(rnd.Next(0,2));
         }
+
+        static int CalcEmpWage()
+        {
+            int WagePerHour = 20;
+            int FullDayHour = 8;
+            return WagePerHour* FullDayHour;
+        }
     }
 }
