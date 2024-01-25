@@ -12,5 +12,11 @@ namespace EmployeeWageComputation
         {
             Console.WriteLine("Welcome to Employee Wage Computation Program");
         }
+
+        static bool IsPresent()
+        {
+            Random rnd = new Random();
+            return Convert.ToBoolean(rnd.Next(0,2));
+        }
     }
 }
