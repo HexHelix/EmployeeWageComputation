@@ -11,6 +11,23 @@ namespace EmployeeWageComputation
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Employee Wage Computation Program");
+            Console.WriteLine("Press 1 for Employee wage and 2 for part time employee wage");
+            int c = Convert.ToInt32(Console.ReadLine());
+            switch (c)
+            {
+                case 1:
+                    {
+                        Console.WriteLine(CalcEmpWage());
+                    }
+                    break;
+                case 2:
+                    {
+                        Console.WriteLine(PartTimeWage());
+                    }
+                    break;
+                default: Console.WriteLine("Either press 1 or 2");
+                    break;
+            }
         }
 
         static bool IsPresent()
