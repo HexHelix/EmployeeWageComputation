@@ -1,0 +1,8 @@
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.exe.config
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.exe
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\bin\Debug\EmployeeWageComputation.pdb
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.csproj.AssemblyReference.cache
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.csproj.SuggestedBindingRedirects.cache
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.exe
+E:\LOCOBUZZ_Training\EmployeeWageComputation\EmployeeWageComputation\obj\Debug\EmployeeWageComputation.pdb
